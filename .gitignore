@@ -1,0 +1,15 @@
+# Build files
+*.exe
+*.obj
+*.pdb
+*.ilk
+
+# Logs
+*.log
+*_log.txt
+
+# CVI build folder
+cvibuild.*/
+
+# VSCode
+.vscode/
